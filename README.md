@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_frost_1850), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Money Sits](./practice/sql/where-the-money-sits) | SQL | Medium | 2026-08-26 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-08-07 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-08-07 |
 | [Everyone Counts](./practice/sql/everyone-counts) | SQL | Easy | 2026-08-06 |
