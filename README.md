@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_frost_1850), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Everyone Counts](./practice/sql/everyone-counts) | SQL | Easy | 2026-08-06 |
 | [The Words That Page Us](./practice/sql/the-words-that-page-us) | SQL | Hard | 2026-07-23 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-07-23 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-07-09 |
