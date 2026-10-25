@@ -12,6 +12,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_frost_1850), committ
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-08-07 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-08-07 |
 | [Everyone Counts](./practice/sql/everyone-counts) | SQL | Easy | 2026-08-06 |
+| [Beyond the Signup](./practice/sql/beyond-the-signup) | SQL | Medium | 2026-07-28 |
 | [The Words That Page Us](./practice/sql/the-words-that-page-us) | SQL | Hard | 2026-07-23 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-07-23 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-07-09 |
