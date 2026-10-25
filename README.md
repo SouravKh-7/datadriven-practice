@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_frost_1850), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-07-05 |
 | [The Ones Worth Paging](./practice/sql/the-ones-worth-paging) | SQL | Hard | 2026-07-05 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-07-05 |
 
