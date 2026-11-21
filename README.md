@@ -16,7 +16,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_frost_1850), committ
 | [The Words That Page Us](./practice/sql/the-words-that-page-us) | SQL | Hard | 2026-07-23 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-07-23 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-07-09 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-07-08 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-07-08 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-07-05 |
 | [The Ones Worth Paging](./practice/sql/the-ones-worth-paging) | SQL | Hard | 2026-07-05 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-07-05 |
